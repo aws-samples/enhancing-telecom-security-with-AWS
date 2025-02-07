@@ -1,7 +1,7 @@
 # CISA Hardening Guidelines Mapped to AWS Controls
 
 ## Overview
-This repository contains detailed mapping between CISA's Enhanced Visibility and Hardening Guidance for Communications Infrastructure and corresponding AWS security controls and services. The content serves as a companion to the AWS Security Blog post "[Enhancing Telecom Security with AWS](https://aws.amazon.com/blogs/security/enhancing-telecom-security-with-aws/)".
+This repository contains detailed mapping between CISA's Enhanced Visibility and Hardening Guidance for Communications Infrastructure and corresponding AWS security controls and services. The content serves as a companion to the AWS Security Blog post: [Enhancing Telecom Security with AWS](https://aws.amazon.com/blogs/security/enhancing-telecom-security-with-aws/).
 
 ## Purpose
 This technical guidance helps organizations:
